@@ -39,7 +39,7 @@ readme_content = f"""# {answers['title']}
 This project is licensed under the {answers['license']}.
 
 ## Author
-{answers['author']}
+{answers['authort']}
 """
 
 with open("README.md", "w") as f:
