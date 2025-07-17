@@ -1,5 +1,6 @@
 # ReadMeGenerator
 
+<<<<<<< HEAD
 A Python-based tool that helps you quickly create professional README.md files for your GitHub projects. Simply run the script, answer a few questions about your project, and get a well-formatted README file instantly.
 
 ## Description
@@ -72,3 +73,6 @@ This project is licensed under the MIT License.
 ## Author
 
 GP Group
+=======
+Python based tool that helps you quickly create a professional README.md file for your GitHub projects. It asks you a few questions about your project and then automatically generates a well formatted README file.
+>>>>>>> 77d23bbf656ed2692cd1e317418fbd5e043c7cb4
