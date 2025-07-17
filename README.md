@@ -17,16 +17,19 @@ This interactive README generator uses Python to prompt you for essential projec
 ## Installation
 
 1. Clone the repository to your local machine:
+
    ```bash
    git clone https://github.com/GeorgePrempeh/ReadMeGenerator.git
    ```
 
 2. Navigate into the project directory:
+
    ```bash
    cd ReadMeGeneratorProject
    ```
 
 3. Create and activate a virtual environment:
+
    ```bash
    python -m venv .venv
    .\.venv\Scripts\Activate.ps1  # On Windows PowerShell
@@ -46,6 +49,7 @@ python readme_generator.py
 ```
 
 Follow the interactive prompts to provide:
+
 - Project title
 - Project description
 - Installation instructions
